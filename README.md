@@ -20,7 +20,7 @@
    
    2. 将压缩包解压后放在你的服务器中，解压后文件如图
    
-      ![image-20220210182457914](https://gitee.com/msylj/images/raw/master/202202101824019.png)
+      ![image-20220210193522923](https://i.postimg.cc/t4s71pcj/202202101935057.png)
    
    <br>
    
@@ -42,6 +42,6 @@
    
       ![image-20220210182759058](https://gitee.com/msylj/images/raw/master/202202101827212.png)
    
-   ![屏幕截图(2)](https://i.postimg.cc/MK6HqWD5/202202101916086.png)
+      
    
    
