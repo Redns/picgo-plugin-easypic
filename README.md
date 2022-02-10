@@ -12,7 +12,7 @@
 
 1. 前往 [My-Easy-Pic-Bed](https://github.com/fslongjin/My-Easy-Pic-Bed) 下载图床服务
 
-   ![image-20220210182257858](https://gitee.com/msylj/images/raw/master/202202101822995.png)
+   ![image-20220210201146087](https://i.postimg.cc/mDGVmb1x/202202102011195.png)
 
    <br>
 
@@ -63,7 +63,7 @@
 
 7. 点击确定，设置完成！
 
-
+<br>
 
 ## Q & A
 
@@ -101,7 +101,7 @@
 
 2. 选择要上传的文件后点击`开始上传`即可
 
-
+<br>
 
 ### 4.如何在运行图床服务时不显示终端？
 
