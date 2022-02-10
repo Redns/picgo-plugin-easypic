@@ -15,33 +15,51 @@
    ![image-20220210182257858](https://gitee.com/msylj/images/raw/master/202202101822995.png)
 
    <br>
+
    
-   
-   
-   2. 将压缩包解压后放在你的服务器中，解压后文件如图
-   
-      ![image-20220210193522923](https://i.postimg.cc/t4s71pcj/202202101935057.png)
-   
+
+2. 将压缩包解压后放在你的服务器中，解压后文件如图
+
+   ![image-20220210193522923](https://camo.githubusercontent.com/e8b3eeb1fddd023a208e0456cf6fa88707663340c97b9d5440dd62e027bd5a98/68747470733a2f2f692e706f7374696d672e63632f743473373170636a2f3230323230323130313933353035372e706e67)
+
    <br>
-   
-   3. 可在`config.ini`中设置端口号和图片最大尺寸限制
-   
-      ```ini
-      [strings]
-      running_domain = 0.0.0.0	
-      
-      
-      [ints]
-      max_length = 10		// 最大尺寸为10M
-      port = 9999			// 端口号为9999
-      ```
-   
-      <br>
-   
-   4. 双击`startProgram.exe`启动图床服务
-   
-      ![image-20220210182759058](https://gitee.com/msylj/images/raw/master/202202101827212.png)
-   
-      
+
+3. 可在`config.ini`中设置端口号和图片最大尺寸限制
+
+   ```ini
+   [strings]
+   running_domain = 0.0.0.0	
    
    
+   [ints]
+   max_length = 10		// 最大尺寸为10M
+   port = 9999			// 端口号为9999
+   ```
+
+   <br>
+
+4. 双击`startProgram.exe`启动图床服务
+
+   ![image-20220210182759058](https://gitee.com/msylj/images/raw/master/202202101827212.png)
+
+   ![image-20220210194816559](https://i.postimg.cc/Z5zph9RQ/202202101948652.png)
+
+   
+
+5. `GUI`搜索下载`easypic`
+
+   ![image-20220210194913624](https://i.postimg.cc/NjtDkC1L/202202101949679.png)
+
+   
+
+6. 根据实际修改相关设置
+
+   ![image-20220210195011555](https://i.postimg.cc/T3QVqddH/202202101950610.png)
+
+   - `服务器IP`：部署图床服务的服务器IP，若部署在本机则为127.0.0.1
+   - `端口号`：config.ini中设置的端口号，默认80
+
+   
+
+7. 点击确定，设置完成！
+
