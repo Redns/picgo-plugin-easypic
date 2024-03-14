@@ -65,7 +65,7 @@ const handle = async (ctx) => {
 
             delete imgList[i].base64Image
             delete imgList[i].buffer
-            imgList[i]['imgUrl'] = `${userConfig.ip}:${userConfig.port}/uploads/${imgList[i].fileName}`
+            imgList[i]['imgUrl'] = `http://${userConfig.ip}:${userConfig.port}/uploads/${imgList[i].fileName}`
         }
         catch(err){
             delete imgList[i].base64Image
